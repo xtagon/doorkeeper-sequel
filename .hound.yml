@@ -1,0 +1,9 @@
+LineLength:
+  Exclude:
+    - spec/**/*
+
+StringLiterals:
+  Enabled: false
+
+TrailingBlankLines:
+  Enabled: true
