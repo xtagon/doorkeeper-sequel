@@ -1,5 +1,11 @@
 # doorkeeper-sequel extension
 
+**Important Notice**
+
+This repository is not in active development. If you're looking for Sequel
+support for Doorkeeper, check out [nbulaj/doorkeeper-sequl](https://github.com/nbulaj/doorkeeper-sequel),
+which seems to be farther along.
+
 ## Installation
 
 doorkeeper-sequel provides doorkeeper support to Sequel.
